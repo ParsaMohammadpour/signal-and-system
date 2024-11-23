@@ -1,4 +1,5 @@
-# signal-and-system course assignments
+# signal-and-system
+This repo contains assignments of Signal and Systems course at Shahid Beheshti university.
 
 ### 1st assignment:
 Signal and systems code assignment number1.
